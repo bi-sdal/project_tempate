@@ -1,2 +1,9 @@
 # project_tempate
-Files used for project templates
+Files and script used to create project templates
+
+
+# Useage
+
+```shell
+./create_this.sh ~/temp/new_project
+```
