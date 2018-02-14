@@ -18,6 +18,9 @@ data/*
 *.[xX][lL][sS][xX]
 *.[rR][dD][sS]
 
+# pdfs are sometimes used as figure output
+!output/*.[pP][dD][fF]
+
 # shapefiles
 
 *.[sS][hH][pP]
