@@ -18,6 +18,7 @@ data/*
 *.[xX][lL][sS]
 *.[xX][lL][sS][xX]
 *.[rR][dD][sS]
+*.[jJ][sS][oO][nN]
 
 # pdfs are sometimes used as figure output
 !output/*.[pP][dD][fF]
